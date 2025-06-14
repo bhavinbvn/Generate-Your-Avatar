@@ -14,11 +14,6 @@ A fun and simple **ReactJS** app that lets you generate unique avatars using the
 
 ---
 
-## 📸 Demo
-
-![Demo Screenshot](./demo.png)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -53,7 +48,7 @@ avatarApp/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/avatarApp.git
+git clone https://github.com/bhavinbvn/avatarApp.git
 cd avatarApp
 ```
 
